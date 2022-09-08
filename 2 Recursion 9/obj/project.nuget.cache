@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mH2PZ38qRhaPSaCC/KPq4fDfXMR/ZSHCIqG6lPniYscDeFHRN9b3L4opVgWvyMFMM/QZfjeP1lNPsMqYJwSyRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicen\\Desktop\\lab\\Estructura de datos\\2 Recursion 9\\2 Recursion 9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

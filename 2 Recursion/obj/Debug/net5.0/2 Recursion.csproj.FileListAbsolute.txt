@@ -1,0 +1,16 @@
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\bin\Debug\net5.0\2 Recursion.exe
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\bin\Debug\net5.0\2 Recursion.deps.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\bin\Debug\net5.0\2 Recursion.runtimeconfig.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\bin\Debug\net5.0\2 Recursion.runtimeconfig.dev.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\bin\Debug\net5.0\2 Recursion.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\bin\Debug\net5.0\2 Recursion.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.csproj.AssemblyReference.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.AssemblyInfoInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.AssemblyInfo.cs
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.csproj.CoreCompileInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\refint\2 Recursion.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\2 Recursion.genruntimeconfig.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\2 Recursion\obj\Debug\net5.0\ref\2 Recursion.dll

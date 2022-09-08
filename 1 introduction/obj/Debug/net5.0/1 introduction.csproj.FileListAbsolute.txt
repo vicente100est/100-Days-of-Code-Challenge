@@ -1,0 +1,16 @@
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\bin\Debug\net5.0\1 introduction.exe
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\bin\Debug\net5.0\1 introduction.deps.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\bin\Debug\net5.0\1 introduction.runtimeconfig.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\bin\Debug\net5.0\1 introduction.runtimeconfig.dev.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\bin\Debug\net5.0\1 introduction.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\bin\Debug\net5.0\1 introduction.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.csproj.AssemblyReference.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.AssemblyInfoInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.AssemblyInfo.cs
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.csproj.CoreCompileInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\refint\1 introduction.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\1 introduction.genruntimeconfig.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\1 introduction\obj\Debug\net5.0\ref\1 introduction.dll

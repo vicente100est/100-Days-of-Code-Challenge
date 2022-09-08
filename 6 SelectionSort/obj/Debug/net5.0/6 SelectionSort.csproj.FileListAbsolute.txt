@@ -1,0 +1,16 @@
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.csproj.AssemblyReference.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.AssemblyInfoInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.AssemblyInfo.cs
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\bin\Debug\net5.0\6 SelectionSort.exe
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\bin\Debug\net5.0\6 SelectionSort.deps.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\bin\Debug\net5.0\6 SelectionSort.runtimeconfig.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\bin\Debug\net5.0\6 SelectionSort.runtimeconfig.dev.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\bin\Debug\net5.0\6 SelectionSort.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\bin\Debug\net5.0\6 SelectionSort.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\refint\6 SelectionSort.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\6 SelectionSort.genruntimeconfig.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\6 SelectionSort\obj\Debug\net5.0\ref\6 SelectionSort.dll

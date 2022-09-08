@@ -1,0 +1,16 @@
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\bin\Debug\net5.0\12 Arbol Generico.exe
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\bin\Debug\net5.0\12 Arbol Generico.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\bin\Debug\net5.0\12 Arbol Generico.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\bin\Debug\net5.0\12 Arbol Generico.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\bin\Debug\net5.0\12 Arbol Generico.dll
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\bin\Debug\net5.0\12 Arbol Generico.pdb
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.dll
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\refint\12 Arbol Generico.dll
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.pdb
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\12 Arbol Generico.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de datos\12 Arbol Generico\obj\Debug\net5.0\ref\12 Arbol Generico.dll

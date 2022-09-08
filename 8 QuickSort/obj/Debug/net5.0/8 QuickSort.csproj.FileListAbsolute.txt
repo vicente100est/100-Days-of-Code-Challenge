@@ -1,0 +1,16 @@
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\bin\Debug\net5.0\8 QuickSort.exe
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\bin\Debug\net5.0\8 QuickSort.deps.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\bin\Debug\net5.0\8 QuickSort.runtimeconfig.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\bin\Debug\net5.0\8 QuickSort.runtimeconfig.dev.json
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\bin\Debug\net5.0\8 QuickSort.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\bin\Debug\net5.0\8 QuickSort.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.csproj.AssemblyReference.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.AssemblyInfoInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.AssemblyInfo.cs
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\refint\8 QuickSort.dll
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.pdb
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\8 QuickSort.genruntimeconfig.cache
+C:\Users\vicen\OneDrive\Escritorio\Lab\100 Days of Code\Estructura de datos\Estructura de datos\8 QuickSort\obj\Debug\net5.0\ref\8 QuickSort.dll
