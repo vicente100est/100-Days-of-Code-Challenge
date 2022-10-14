@@ -1,0 +1,16 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\bin\Debug\net5.0\18 ReHash.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\bin\Debug\net5.0\18 ReHash.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\bin\Debug\net5.0\18 ReHash.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\bin\Debug\net5.0\18 ReHash.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\bin\Debug\net5.0\18 ReHash.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\bin\Debug\net5.0\18 ReHash.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\refint\18 ReHash.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\18 ReHash.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\18 ReHash\obj\Debug\net5.0\ref\18 ReHash.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "20 Grafo/1.0.0": {
+        "runtime": {
+          "20 Grafo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20 Grafo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

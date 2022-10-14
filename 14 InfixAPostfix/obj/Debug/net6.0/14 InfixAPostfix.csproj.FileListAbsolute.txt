@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\bin\Debug\net6.0\14 InfixAPostfix.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\bin\Debug\net6.0\14 InfixAPostfix.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\bin\Debug\net6.0\14 InfixAPostfix.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\bin\Debug\net6.0\14 InfixAPostfix.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\bin\Debug\net6.0\14 InfixAPostfix.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\refint\14 InfixAPostfix.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\14 InfixAPostfix.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 InfixAPostfix\obj\Debug\net6.0\ref\14 InfixAPostfix.dll

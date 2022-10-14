@@ -1,0 +1,16 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\bin\Debug\net5.0\19 Heap.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\bin\Debug\net5.0\19 Heap.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\bin\Debug\net5.0\19 Heap.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\bin\Debug\net5.0\19 Heap.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\bin\Debug\net5.0\19 Heap.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\bin\Debug\net5.0\19 Heap.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\refint\19 Heap.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\19 Heap.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\19 Heap\obj\Debug\net5.0\ref\19 Heap.dll

@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\bin\Debug\net6.0\22 Dijkstra.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\bin\Debug\net6.0\22 Dijkstra.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\bin\Debug\net6.0\22 Dijkstra.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\bin\Debug\net6.0\22 Dijkstra.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\bin\Debug\net6.0\22 Dijkstra.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\refint\22 Dijkstra.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\22 Dijkstra.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\22 Dijkstra\obj\Debug\net6.0\ref\22 Dijkstra.dll

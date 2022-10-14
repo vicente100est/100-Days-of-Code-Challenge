@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\bin\Debug\net6.0\21 Camino Mas Corto.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\bin\Debug\net6.0\21 Camino Mas Corto.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\bin\Debug\net6.0\21 Camino Mas Corto.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\bin\Debug\net6.0\21 Camino Mas Corto.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\bin\Debug\net6.0\21 Camino Mas Corto.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\refint\21 Camino Mas Corto.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\21 Camino Mas Corto.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\21 Camino Mas Corto\obj\Debug\net6.0\ref\21 Camino Mas Corto.dll

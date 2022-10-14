@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\bin\Debug\net6.0\14 EvalPrePost.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\bin\Debug\net6.0\14 EvalPrePost.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\bin\Debug\net6.0\14 EvalPrePost.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\bin\Debug\net6.0\14 EvalPrePost.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\bin\Debug\net6.0\14 EvalPrePost.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\refint\14 EvalPrePost.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\14 EvalPrePost.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\14 EvalPrePost\obj\Debug\net6.0\ref\14 EvalPrePost.dll

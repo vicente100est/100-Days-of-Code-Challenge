@@ -1,0 +1,16 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\bin\Debug\net5.0\Arbol Binario.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\bin\Debug\net5.0\Arbol Binario.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\bin\Debug\net5.0\Arbol Binario.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\bin\Debug\net5.0\Arbol Binario.runtimeconfig.dev.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\bin\Debug\net5.0\Arbol Binario.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\bin\Debug\net5.0\Arbol Binario.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\refint\Arbol Binario.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\Arbol Binario.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\Estructura de Datos II\obj\Debug\net5.0\ref\Arbol Binario.dll

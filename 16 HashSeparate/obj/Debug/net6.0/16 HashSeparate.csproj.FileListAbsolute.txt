@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\bin\Debug\net6.0\16 HashSeparate.exe
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\bin\Debug\net6.0\16 HashSeparate.deps.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\bin\Debug\net6.0\16 HashSeparate.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\bin\Debug\net6.0\16 HashSeparate.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\bin\Debug\net6.0\16 HashSeparate.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\refint\16 HashSeparate.dll
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.pdb
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\16 HashSeparate.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Estructura de Datos II\16 HashSeparate\obj\Debug\net6.0\ref\16 HashSeparate.dll
